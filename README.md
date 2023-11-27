@@ -25,9 +25,9 @@
  
   [![artursuvor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=artursuvor&count_private=true&hide=none&show_icons=true&theme=radical&include_all_commits=true&disable_animations=true&hide_border=true)](https://github.com/artursuvor)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xzd3n3k&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artursuvor&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
-  [![artursuvor's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xzd3n3k&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true)](https://github.com/xzd3n3k)
+  [![artursuvor's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artursuvor&langs_count=10&layout=compact&theme=radical&hide_border=true&disable_animations=true)](https://github.com/artursuvor)
 
   *NOTE: **Most Used Languages** do not indicate skill level or anything like that. It is a GitHub metric of which languages have the most code at my GitHub repositories.*
 </div>
