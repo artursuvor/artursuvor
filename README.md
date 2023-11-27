@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/artursuvor/)">
+  <a href="https://www.linkedin.com/in/artursuvor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="mailto:artursuvor@gmail.com">
     <img src="https://img.shields.io/badge/mail-white?logo=microsoftoutlook&logoColor=blue&style=for-the-badge" alt="Microsoft Outlook Mail Badge"/>
