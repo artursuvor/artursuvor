@@ -22,8 +22,6 @@
 <br>
     
 <div align="center">
- 
-  [![artursuvor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=artursuvor&count_private=false&hide=none&show_icons=true&theme=radical&include_all_commits=true&disable_animations=true&hide_border=true)](https://github.com/artursuvor)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artursuvor&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
