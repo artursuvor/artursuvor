@@ -24,9 +24,10 @@
     
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artursuvor&theme=green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artursuvor&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![artursuvor's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artursuvor&langs_count=10&layout=compact&theme=green&hide_border=true&disable_animations=true)](https://github.com/artursuvor)
+[![artursuvor's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artursuvor&langs_count=10&layout=compact&theme=dark&hide_border=true&disable_animations=true)](https://github.com/artursuvor)
+
 
   *NOTE: **Most Used Languages** do not indicate skill level or anything like that. It is a GitHub metric of which languages have the most code at my GitHub repositories.*
 </div>
