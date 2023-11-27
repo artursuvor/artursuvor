@@ -12,15 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=artursuvor&style=flat-square&color=blue" alt="Profile Views Badge"/>
 </div>
 
-<br>
-<hr>
     
 <div align="center">
   Hi there 👋, I'm Artur
 </div>
-
-<hr> 
-<br>
     
 <div align="center">
   
