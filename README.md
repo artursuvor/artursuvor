@@ -3,7 +3,7 @@
 ### Hi, I'm Artur 👋  
 Frontend Developer
 
-<a href="https://artursuvor.vercel.app/" target="_blank">
+<a href="https://artursuvor.com/" target="_blank">
   Portfolio Website
 </a>
 
