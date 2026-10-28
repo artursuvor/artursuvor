@@ -16,12 +16,6 @@ Frontend Developer
 <a href="https://www.linkedin.com/in/artursuvor/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:artursuvor@gmail.com">
-  <img src="https://img.shields.io/badge/Email-white?logo=microsoftoutlook&logoColor=blue&style=flat"/>
-</a>
-<a href="https://discordapp.com/users/141596787302465537">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat"/>
-</a>
 
 </div>
 
